@@ -1,5 +1,5 @@
 ## Change-PHP-Version
-# change php version in ubuntu
+# change php version on Apache2 in ubuntu
 
 Uses: 
 
